@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    background-color: blueviolet;
+    width: 240px;
+    height: 240px;
+    display: flex;
+    gap: 10px;
+    border-radius: 8px;
+    justify-self: unset;
+
+}
+
+.h {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    background-color: brown;
+
+    width: 1000px;
+    margin: 0 auto;
+
+}
+.{
+    display: flex;
+    gap: 8px;
+    border-radius: 8px;
+}
+.gold{
+    display: flex;
+    gap: 5px;
+    align-items:end;
+
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+
+}
+.bl{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.jl{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.hj{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.kj{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.fj{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.bj{
+   display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.yj{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.aj{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.xj{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.gj{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
+.cj{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: chocolate;
+    width: 10px;
+    height: 10px;
+    
+}
